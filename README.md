@@ -8,7 +8,7 @@ Instacart is an app based online grocery store. They already have good sales but
 
 # Data
 The data used is an open source data by Instacart from 2017 and it is available [here]([url](https://www.instacart.com/datasets/grocery-shopping-2017))
-(https://www.instacart.com/datasets/grocery-shopping-2017)
+
 
 # Tools
 Pandas
