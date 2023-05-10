@@ -11,12 +11,8 @@ The data used is an open source data by Instacart from 2017 and it is available 
 
 
 # Tools
-Pandas
-
-Numpy
-
-Seaborn
-
-Matplotlib
-
-Scipy
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Scipy
